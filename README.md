@@ -1,5 +1,5 @@
 # funds-filtering
-Built to automatize a daily manipulation between Generali Investments, our clients, and our partners.
+Built to automatize a daily manipulation between an asset management firl, their clients and partners.
 - Imports a file containing financial data.
 - Filters it on a scope of portfolio (scopeCustodian.csv)
 - Sends it to a remote server through a SFTP connection
